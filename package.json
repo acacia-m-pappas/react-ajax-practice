@@ -21,13 +21,13 @@
   "homepage": "https://github.com/jcelder/hr00-react-ajax-practice#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
-    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-env": "^7.3.1",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.5",
     "live-server": "^1.2.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "webpack": "^4.28.4",
+    "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1"
   },
   "dependencies": {
